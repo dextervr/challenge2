@@ -1,0 +1,13 @@
+﻿# Default ignored files
+/shelf/
+/workspace.xml
+# Rider ignored files
+/modules.xml
+/.idea.unity2challenge.iml
+/projectSettingsUpdater.xml
+/contentModel.xml
+# Datasource local storage ignored files
+/../../../../../../:\projects\unity2challenge\.idea\.idea.unity2challenge\.idea/dataSources/
+/dataSources.local.xml
+# Editor-based HTTP Client requests
+/httpRequests/
